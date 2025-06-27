@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Stefan
 
-<!--
-**SCojita/SCojita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador de software enfocado en aplicaciones multiplataforma. Apasionado por el desarrollo móvil, realidad aumentada y la optimización de procesos.
 
-Here are some ideas to get you started:
+## 🚀 Proyectos destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 FriendSync
+Aplicación móvil para organizar eventos entre amigos.
+
+### 🖼️ Experincia de Realidad Aumentada 
+Experiencia de realidad aumentada en navegador usando AR.js para web y otra aplicación en Unity.
+
+## 🛠️ Stack Tecnológico
+- Lenguajes: Java, C#, Python, JavaScript (solo RA).
+- Frameworks: NET Framework 
+- Herramientas: Git, VS Code, VS Code Community 2022
