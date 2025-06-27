@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Stefan
+# 👋 ¡Bienvenido a mi perfil de GitHub!
 
 Soy desarrollador de software enfocado en aplicaciones multiplataforma. Apasionado por el desarrollo móvil, realidad aumentada y la optimización de procesos.
 
